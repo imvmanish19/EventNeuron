@@ -168,3 +168,11 @@ html{
     color: white;
     padding: 2rem 0;
   }
+
+  #get-started {
+    color: black;
+  }
+
+  #get-started:hover {
+    color: white;
+  }
